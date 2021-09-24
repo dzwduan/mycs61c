@@ -1,7 +1,7 @@
 # mycs61c
 
-##week1
-###Lec
-###Lab
-###Discussion
-###Project
+## week1
+### Lec
+### Lab
+### Discussion
+### Project
